@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'am currently Student on NCET<br>i'am looking for help with<br>i'am currently learning<br>Ask about me
+i'am currently Student at NCET<br>i'am looking for help with<br>i'am currently learning<br>Ask about me
 
 
 ## 🌐 Socials:
